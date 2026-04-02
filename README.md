@@ -20,6 +20,13 @@ Users can browse products, add/remove items from a cart, and complete checkout w
 
 ---
 
+## How to Run (in terminal)
+git clone https://github.com/ignatius5k/ShoppingCart.git
+cd ShoppingCart
+python main.py
+
+---
+
 ## Tech Stack
 
 - Python 3
